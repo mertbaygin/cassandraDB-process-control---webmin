@@ -1,0 +1,3 @@
+cassandraDb_conf=/etc/cassandraDb/cassandraDb.conf
+start_cmd=/etc/init.d/cassandraDb start
+stop_cmd=/etc/init.d/cassandraDb stop
